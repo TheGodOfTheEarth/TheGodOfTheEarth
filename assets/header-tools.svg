@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+  <style>
+    .text { 
+      font: bold 32px 'Segoe UI', sans-serif;
+      fill: #ffffff;
+    }
+    .rect {
+      fill: #25f5c4ff;
+      rx: 10;
+    }
+  </style>
+  
+  <rect width="400" height="60" class="rect"/>
+  <text x="50%" y="65%" text-anchor="middle" class="text">TOOLS &amp; OTHER:</text>
+</svg>
