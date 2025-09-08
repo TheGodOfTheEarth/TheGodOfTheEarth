@@ -63,7 +63,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodOfTheEarth&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Топ языков" height="165">
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=TheGodOfTheEarth&theme=radical&hide_border=true&background=00000000" alt="Рекорд активностей" height="165">
+<img src="https://github-readme-stats-omega-dun.vercel.app/api?username=TheGodOfTheEarth&show_icons=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Статистика" height="165">
 
 </div>
 
