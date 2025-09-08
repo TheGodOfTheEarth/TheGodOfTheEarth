@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   <h1><font size="6" color="#8c37f4ff">Бажанов Юрий</font></h1>
+   <h1><img src="./assets/header-name.svg" alt="Бажанов Юрий" /></h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=5000&pause=1000&color=38BCF7&center=true&vCenter=true&width=580&lines=Frontend+Developer+(⚡️React);хочу+-+могу+-+делаю" alt="Typing SVG" />
 </div>

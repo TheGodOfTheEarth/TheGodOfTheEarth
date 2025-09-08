@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
+  <style>
+    .text { 
+      font: bold 32px 'JetBrains Mono', sans-serif;
+      fill: #55ffddff;
+    }
+  </style>
+  
+  <text x="50%" y="65%" text-anchor="middle" class="text">Бажанов Юрий</text>
+</svg>
