@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60">
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="50">
   <style>
     .text { 
-      font: bold 32px 'Segoe UI', sans-serif;
+      font: bold 20px 'Segoe UI', sans-serif;
       fill: #ffffff;
     }
     .rect {
@@ -10,6 +10,6 @@
     }
   </style>
   
-  <rect width="400" height="60" class="rect"/>
+  <rect width="250" height="50" class="rect"/>
   <text x="50%" y="65%" text-anchor="middle" class="text">TOOLS &amp; OTHER:</text>
 </svg>
