@@ -53,9 +53,9 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TheGodOfTheEarth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide=issues" alt="Статистика" />
+<img height="165em" src="https://my-stats-on-github.vercel.app/api?username=TheGodOfTheEarth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide=issues" alt="Статистика" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodOfTheEarth&layout=compact&hide_border=true&theme=radical&hide=html,css" alt="Топ языков" />
+<img height="165em" src="https://my-stats-on-github.vercel.app/api/top-langs/?username=TheGodOfTheEarth&layout=compact&hide_border=true&theme=radical&hide=html,css" alt="Топ языков" />
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheGodOfTheEarth&theme=radical&hide_border=true" alt="Рекорд активностей" />
 
